@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @zp-86
-- 📫 user86 on Discord
-
-
+Random Code Projects, all hosted on my GitHub page, https://zp-86.github.io/
+Discord: user86
