@@ -1,2 +1,4 @@
-Random Code Projects, all hosted on my GitHub page, https://zp-86.github.io/
-Discord: user86
+Random Code Projects, all hosted on my GitHub page, https://zp86.me/ <br>
+Discord: user86 <br>
+Email: zander@zp86.me <br>
+Co-Founder @ https://closingline.app
